@@ -35,12 +35,6 @@ input[type="text"]:disabled {
   border-color: black;
 }
 
-/* input[type="text"]:focus {
-  background: black;
-  color: #b8afb6;
-  border-color: black;
-} */
-
 #floatingSelect {
   background-color: black;
   color: white;
