@@ -1,0 +1,30 @@
+.bg-header {
+  background: #211f21;
+  text-align: end;
+}
+
+.button-login {
+  background: #93227f;
+  border-radius: 30px;
+  height: 49px;
+  width: 101px;
+  left: 0px;
+  top: 0px;
+  margin: 10px 0px 10px 0px;
+  padding: 15px, 30px, 15px, 30px;
+  border-style: none;
+}
+
+.button-signup {
+  border-style: none;
+  background: transparent;
+  border-radius: 30px;
+  height: 49px;
+  width: 101px;
+  left: 0px;
+  top: 0px;
+}
+
+button {
+  color: white;
+}

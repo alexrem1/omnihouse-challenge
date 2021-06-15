@@ -1,0 +1,47 @@
+.bg-search {
+  background: #201b20;
+  color: white;
+  width: 100%;
+  min-height: 100%;
+}
+
+.search-button {
+  height: 59px;
+  border-radius: 10px;
+  background: #d41553;
+  border: none;
+  width: 97%;
+}
+
+label {
+  color: #ff008c;
+  margin: 0px 10px;
+  font-weight: bolder;
+}
+
+.form-floating > .form-control:focus ~ label,
+.form-floating > .form-control:not(:placeholder-shown) ~ label,
+.form-floating > .form-select ~ label {
+  opacity: 1;
+}
+
+.row {
+  --bs-gutter-x: 1rem;
+}
+
+input[type="text"]:disabled {
+  background: black;
+  color: #b8afb6;
+  border-color: black;
+}
+
+/* input[type="text"]:focus {
+  background: black;
+  color: #b8afb6;
+  border-color: black;
+} */
+
+#floatingSelect {
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "property_name": "3 Bedroom flat in Hackney Bridge",
+    "price": "£1,420 pcm",
+    "bedrooms": "3",
+    "living_room": "1",
+    "toilets": "2",
+    "location": "South Kensington (0.1 mile)",
+    "isFurnished": "Furnished",
+    "move_in_date": "Move-in from 20/04/21"
+  },
+  {
+    "id": 2,
+    "property_name": "3 Bedroom flat in Hackney Bridge",
+    "price": "£1,420 pcm",
+    "bedrooms": "3",
+    "living_room": "1",
+    "toilets": "2",
+    "location": "South Kensington (0.1 mile)",
+    "isFurnished": "Furnished",
+    "move_in_date": "Move-in from 20/04/21"
+  },
+  {
+    "id": 3,
+    "property_name": "3 Bedroom flat in Hackney Bridge",
+    "price": "£1,420 pcm",
+    "bedrooms": "3",
+    "living_room": "1",
+    "toilets": "2",
+    "location": "South Kensington (0.1 mile)",
+    "isFurnished": "Furnished",
+    "move_in_date": "Move-in from 20/04/21"
+  },
+  {
+    "id": 4,
+    "property_name": "3 Bedroom flat in Hackney Bridge",
+    "price": "£1,420 pcm",
+    "bedrooms": "3",
+    "living_room": "1",
+    "toilets": "2",
+    "location": "South Kensington (0.1 mile)",
+    "isFurnished": "Furnished",
+    "move_in_date": "Move-in from 20/04/21"
+  },
+  {
+    "id": 5,
+    "property_name": "3 Bedroom flat in Hackney Bridge",
+    "price": "£1,420 pcm",
+    "bedrooms": "3",
+    "living_room": "1",
+    "toilets": "2",
+    "location": "South Kensington (0.1 mile)",
+    "isFurnished": "Furnished",
+    "move_in_date": "Move-in from 20/04/21"
+  },
+  {
+    "id": 6,
+    "property_name": "3 Bedroom flat in Hackney Bridge",
+    "price": "£1,420 pcm",
+    "bedrooms": "3",
+    "living_room": "1",
+    "toilets": "2",
+    "location": "South Kensington (0.1 mile)",
+    "isFurnished": "Furnished",
+    "move_in_date": "Move-in from 20/04/21"
+  },
+  {
+    "id": 7,
+    "property_name": "3 Bedroom flat in Hackney Bridge",
+    "price": "£1,420 pcm",
+    "bedrooms": "3",
+    "living_room": "1",
+    "toilets": "2",
+    "location": "South Kensington (0.1 mile)",
+    "isFurnished": "Furnished",
+    "move_in_date": "Move-in from 20/04/21"
+  },
+  {
+    "id": 8,
+    "property_name": "3 Bedroom flat in Hackney Bridge",
+    "price": "£1,420 pcm",
+    "bedrooms": "3",
+    "living_room": "1",
+    "toilets": "2",
+    "location": "South Kensington (0.1 mile)",
+    "isFurnished": "Furnished",
+    "move_in_date": "Move-in from 20/04/21"
+  },
+  {
+    "id": 9,
+    "property_name": "3 Bedroom flat in Hackney Bridge",
+    "price": "£1,420 pcm",
+    "bedrooms": "3",
+    "living_room": "1",
+    "toilets": "2",
+    "location": "South Kensington (0.1 mile)",
+    "isFurnished": "Furnished",
+    "move_in_date": "Move-in from 20/04/21"
+  },
+  {
+    "id": 10,
+    "property_name": "3 Bedroom flat in Hackney Bridge",
+    "price": "£1,420 pcm",
+    "bedrooms": "3",
+    "living_room": "1",
+    "toilets": "2",
+    "location": "South Kensington (0.1 mile)",
+    "isFurnished": "Furnished",
+    "move_in_date": "Move-in from 20/04/21"
+  },
+  {
+    "id": 11,
+    "property_name": "3 Bedroom flat in Hackney Bridge",
+    "price": "£1,420 pcm",
+    "bedrooms": "3",
+    "living_room": "1",
+    "toilets": "2",
+    "location": "South Kensington (0.1 mile)",
+    "isFurnished": "Furnished",
+    "move_in_date": "Move-in from 20/04/21"
+  },
+  {
+    "id": 12,
+    "property_name": "3 Bedroom flat in Hackney Bridge",
+    "price": "£1,420 pcm",
+    "bedrooms": "3",
+    "living_room": "1",
+    "toilets": "2",
+    "location": "South Kensington (0.1 mile)",
+    "isFurnished": "Furnished",
+    "move_in_date": "Move-in from 20/04/21"
+  },
+  {
+    "id": 13,
+    "property_name": "3 Bedroom flat in Hackney Bridge",
+    "price": "£1,420 pcm",
+    "bedrooms": "3",
+    "living_room": "1",
+    "toilets": "2",
+    "location": "South Kensington (0.1 mile)",
+    "isFurnished": "Furnished",
+    "move_in_date": "Move-in from 20/04/21"
+  },
+  {
+    "id": 14,
+    "property_name": "3 Bedroom flat in Hackney Bridge",
+    "price": "£1,420 pcm",
+    "bedrooms": "3",
+    "living_room": "1",
+    "toilets": "2",
+    "location": "South Kensington (0.1 mile)",
+    "isFurnished": "Furnished",
+    "move_in_date": "Move-in from 20/04/21"
+  },
+  {
+    "id": 15,
+    "property_name": "3 Bedroom flat in Hackney Bridge",
+    "price": "£1,420 pcm",
+    "bedrooms": "3",
+    "living_room": "1",
+    "toilets": "2",
+    "location": "South Kensington (0.1 mile)",
+    "isFurnished": "Furnished",
+    "move_in_date": "Move-in from 20/04/21"
+  }
+]
